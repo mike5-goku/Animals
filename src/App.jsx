@@ -1,6 +1,6 @@
 import { useState } from "react"
 import './App.css'
-import AnimalsShow from './AnimalsShow'
+import AnimalsShow from './AmimalsShow'
 function getRandomAnimal (){
 const animals = ['cat','bird','cow','dog','gator','horse']
 return animals[Math.random()* animals.length]
