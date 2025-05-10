@@ -47,6 +47,6 @@ className="heart"
 </div>
 )
 }
-export default AmimalsShow
+export default AnimalsShow
 
 
