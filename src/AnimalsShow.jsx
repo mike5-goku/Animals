@@ -14,6 +14,7 @@ dog,
 cat,
 cow,
 gator,
+heart,
 horse
 }
 
