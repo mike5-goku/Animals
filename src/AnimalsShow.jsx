@@ -17,7 +17,7 @@ const svgMap ={
     cow,
     gator,
     heart,
-    horse,
+    horse
 }
 
 function AnimalsShow({type}){
