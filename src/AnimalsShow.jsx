@@ -31,7 +31,7 @@ console.log(type)
 
 return(
 
-    <div onclick = {handleClick}
+    <div onClick = {handleClick}
     className = "Animals-show"
     >
     <img
