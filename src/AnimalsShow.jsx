@@ -19,7 +19,7 @@ horse
 
 
 function AnimalsShow({type}){
-const [clicks, setClicks] = useState =(0)
+const [clicks, setClicks] = useState(0)
 const handleClick = () => {
     setClicks(clicks + 1)
 }
